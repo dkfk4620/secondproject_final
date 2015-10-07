@@ -6,5 +6,6 @@ public class hellogit {
 		System.out.println("asdf");
 		System.out.println("s1");
 		System.out.println("master2");
+		System.out.println("s1-2");
 	}
 }
