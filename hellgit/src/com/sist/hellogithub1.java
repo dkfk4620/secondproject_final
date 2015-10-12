@@ -8,6 +8,7 @@ public class hellogithub1 {
 		System.out.println("이클립스에서 수정");
 		System.out.println("gitHub�뿉�꽌 �닔�젙�븿");
 		System.out.println("git hub2 modify");
+		System.out.println("pull 이게 뭐지~~");
 	}
 
 }
