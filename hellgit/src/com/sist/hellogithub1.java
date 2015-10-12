@@ -5,7 +5,8 @@ public class hellogithub1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("github1");
-		System.out.println("ÀÌÅ¬¸³½º¿¡¼­ ¼öÁ¤");
+		System.out.println("ì´í´ë¦½ìŠ¤ì—ì„œ ìˆ˜ì •");
+		System.out.println("gitHubï¿½ë¿‰ï¿½ê½Œ ï¿½ë‹”ï¿½ì ™ï¿½ë¸¿");
 	}
 
 }
