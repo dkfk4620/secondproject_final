@@ -10,6 +10,7 @@ public class hellogithub1 {
 		System.out.println("git hub2 modify");
 		System.out.println("pull 이게 뭐지~~");
 		System.out.println("힘들어");
+		System.out.println("pull 이 왜 없어..");
 	}
 
 }
